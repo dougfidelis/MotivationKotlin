@@ -1,17 +1,17 @@
 ## App Motivation Android Kotlin
 
- O aplicativo Motivation é um projeto criado com o objetivo de praticar a navegação entre activitys, e o uso de sharedPreferences com Android e Kotlin.
+ O aplicativo Motivation foi desenvolvido com o objetivo de praticar a navegação entre as telas e o uso de sharedPreferences com Android e Kotlin
  
- #### Tela de primeiro acesso
+ ### Tela de primeiro acesso
  
- O aplicativo possui uma tela inicial onde o usuário cadastra seu nome ou apelido, essa tela é chamada apenas no primeiro acesso do usuário, nos próximos acessos o usuário é direcionado diretamente para a tela principal.
+ Na tela inicial o usuário cadastra seu nome ou apelido, essa tela é chamada apenas no seu primeiro acesso, nos próximos acessos o usuário é direcionado diretamente para a tela principal.
  
 
 
- #### Tela principal 
+ ### Tela principal 
  
- Na tela pricipal, o usuário encontra um gerador de frases motivacionais aleatórias, que são geradas de acordo com o tema selecionado no menu superior do aplicativo
- 
+ Na tela pricipal, o usuário encontra um gerador de frases motivacionais aleatórias, que são geradas de acordo com o tema selecionado no menu superior do aplicativo.
+ Assim como no botão de nova frase, sempre que o for alterado o tema, será atualizada a frase na tela.
   
  ### Demonstração do aplicativo
  
