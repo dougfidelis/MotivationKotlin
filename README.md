@@ -11,7 +11,7 @@
  ### Tela principal 
  
  Na tela pricipal, o usuário encontra um gerador de frases motivacionais aleatórias, que são geradas de acordo com o tema selecionado no menu superior do aplicativo.
- Assim como no botão de nova frase, sempre que o for alterado o tema, será atualizada a frase na tela.
+ Assim como no botão de nova frase, sempre que for alterado o tema, será atualizada a frase na tela.
   
  ### Demonstração do aplicativo
  
